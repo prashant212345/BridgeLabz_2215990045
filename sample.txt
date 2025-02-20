@@ -1,0 +1,4 @@
+This is a sample text file.
+This file is used for counting word occurrences.
+Word frequency is calculated based on how often a word appears in this file.
+This is a simple example of counting words in a file.
